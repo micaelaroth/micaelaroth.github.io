@@ -148,6 +148,9 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
+      {% if entry.biorxiv %}
+        <a href="http://biorxiv.org/abs/{{ entry.biorxiv }}" class="btn btn-sm z-depth-0" role="button">biorxiv</a>
+      {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
@@ -235,6 +238,8 @@
                 data-arxiv-id="{{ entry.arxiv }}"
               {% elsif entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
+              {% elsif entry.biorxiv %}
+                data-biorxiv-id="{{ entry.biorxiv }}"
               {% elsif entry.doi %}
                 data-doi="{{ entry.doi }}"
               {% elsif entry.pmid %}
