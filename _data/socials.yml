@@ -52,7 +52,7 @@ orcid_id: 0009-0000-7329-8280 # your ORCID ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: substack # can be any name here other than the ones already defined above
+substack: # can be any name here other than the ones already defined above
   logo: assets/img/substack.png
   title: Substack
   url: https://substack.com/@gnuoyea
