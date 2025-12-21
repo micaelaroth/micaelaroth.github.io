@@ -7,7 +7,7 @@ subtitle: <Undergraduate Student @ Wellesley College
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,5 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu).
+Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu). My research interests mainly lie in the intersections between algebra, combinatorics, and graph theory. Some other topics I'm curious about are algebraic topology, geometric group theory, and theoretical machine learning. My research experience includes projects in combinatorial design theory, algebraic graph theory, graph colorings, and biomedical image analysis.
+
+I'm also passionate about mathematics education and pedagogy. I am an active grader and tutor for the Wellesley College Mathematics Department, and served as a counselor at [PROMYS](https://promys.org) in 2025.
+
+
+
+
 
