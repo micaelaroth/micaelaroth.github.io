@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: recipes
 permalink: /recipes/
 nav: false
