@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: blog
 title: recipes
 permalink: /recipes/
 nav: false
