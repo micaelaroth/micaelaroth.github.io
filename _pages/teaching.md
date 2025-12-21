@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Wellesley College Mathematics Department (2022-26)
+- Grader for Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I
+- Tutor for Abstract Algebra, Galois Theory
+- Student seminar talk in Algebraic Graph Theory
 
-Organize your courses by years, topics, or universities, however you like!
+## PROMYS (Summer 2025)
+- Mentor for Number Theory
+- Research Lab Mentor for Lattice Path Enumeration
+- Grader for Quiver Representations
+- Seminar talks in Algebraic Combinatorics and Geometric Group Theory
