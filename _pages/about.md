@@ -30,7 +30,7 @@ My research interests mainly lie in the intersections between algebra, combinato
 
 I'm also passionate about mathematics education and pedagogy. I am a grader and tutor for the Wellesley College Mathematics Department, and served as a counselor at [PROMYS](https://promys.org) in Summer 2025.
 
-Outside of math, my hobbies include rock climbing, skiing, and cooking. Check out my [Substack](https://substack.com/@gnuoyea) for random person reflections, stories, and recipes!
+Outside of math, my hobbies include rock climbing, skiing, and cooking. Check out my [Substack](https://substack.com/@gnuoyea) for random person reflections, stories, and low-effort recipes!
 
 
 
