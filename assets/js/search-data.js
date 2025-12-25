@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Introduction to Geometric Group Theory: The Word Problem",
         
-        description: "an example of a blog post with some math",
+        description: "Notes written for an audience of advanced high school students during the PROMYS program in July 2025.",
         section: "Posts",
         handler: () => {
           
