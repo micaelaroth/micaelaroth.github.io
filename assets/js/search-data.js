@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-",
+        },{id: "post-introduction-to-geometric-group-theory-the-word-problem",
         
-          title: "",
+          title: "Introduction to Geometric Group Theory: The Word Problem",
         
-        description: "",
+        description: "an example of a blog post with some math",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-12-24-ggt/";
+            window.location.href = "/blog/2025/ggt/";
           
         },
       },{id: "books-the-godfather",
