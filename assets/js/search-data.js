@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-introduction-to-geometric-group-theory-the-word-problem",
+        },{id: "post-intro-to-geometric-group-theory-the-word-problem",
         
-          title: "Introduction to Geometric Group Theory: The Word Problem",
+          title: "Intro to Geometric Group Theory: The Word Problem",
         
         description: "",
         section: "Posts",
