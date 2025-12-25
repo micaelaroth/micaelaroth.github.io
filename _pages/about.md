@@ -26,10 +26,11 @@ latest_posts:
 
 Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu). 
 
-My research interests mainly lie in the intersections between algebra, combinatorics, and graph theory. My current experience includes projects in combinatorial design theory, algebraic graph theory, graph colorings, and biomedical image analysis. Some other topics I'm actively curious about are algebraic topology, geometric group theory, and theoretical machine learning. 
+My research interests mainly lie in the intersections between algebra, combinatorics, and graph theory. My current experience includes projects in combinatorial design theory, algebraic combinatorics, graph colorings, and biomedical image analysis. Some other topics I'm actively curious about are algebraic topology, geometric group theory, and theoretical machine learning. 
 
 I'm also passionate about mathematics education and pedagogy. I am a grader and tutor for the Wellesley College Mathematics Department, and served as a counselor at [PROMYS](https://promys.org) in Summer 2025.
 
+Outside of math, my hobbies include rock climbing, skiing, and cooking. Check out my [Substack](https://substack.com/@gnuoyea) for random person reflections, stories, and recipes!
 
 
 
