@@ -8,8 +8,7 @@ nav_order: 3
 ---
 
 ### Wellesley College Mathematics Department (2022-26)
-- Grader for Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I, Galois Theory
-- Tutor for Abstract Algebra, Galois Theory
+- Teaching assistant for various courses, including: Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I, Galois Theory
 - Student seminar talk in Algebraic Graph Theory
 
 ### PROMYS (Summer 2025)
