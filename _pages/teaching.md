@@ -7,11 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-### Wellesley College Mathematics Department (2022-26)
-- Teaching assistant for various courses, including: Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I, Galois Theory
-- Student seminar talk in Algebraic Graph Theory
+### Teaching Assistant @ Wellesley College Mathematics Department (2022-26)
+- Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I, Galois Theory
 
-### PROMYS (Summer 2025)
+### Counselor @ PROMYS (Summer 2025)
 - Mentor for Number Theory
 - Research Lab Mentor for Lattice Path Enumeration
 - Grader for Quiver Representations
