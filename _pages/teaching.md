@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-### Teaching Assistant @ Wellesley College Mathematics Department (2022-26)
+### Teaching Assistant @ Wellesley College (2022-26)
 - Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I, Galois Theory
 
 ### Counselor @ PROMYS (Summer 2025)
