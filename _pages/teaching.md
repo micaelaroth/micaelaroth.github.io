@@ -8,7 +8,14 @@ nav_order: 3
 ---
 
 ### Teaching Assistant @ Wellesley College (2022-26)
-- Calculus II, Linear Algebra, Combinatorics & Graph Theory, Abstract Algebra, Elements of Analysis I, Galois Theory
+- MATH 306: Galois Theory (Spring 2026)
+- MATH 302: Elements of Analysis (Fall 2025)
+- MATH 305: Abstract Algebra (Spring 2025, Fall 2025)
+- MATH 225: Combinatorics & Graph Theory (Fall 2024)
+- MATH 206: Linear Algebra (Spring 2024)
+- MATH 116: Calculus II (Spring 2023, Fall 2023)
+
+### Counselor @ PROMYS (Summer 2026)
 
 ### Counselor @ PROMYS (Summer 2025)
 - Mentor for Number Theory
