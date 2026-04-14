@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu). 
+Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu). I will be attending graduate school in mathematics at the [University at Albany](https://www.albany.edu/math) in Fall 2026.
 
-My current experience includes projects in combinatorial design theory, algebraic combinatorics, graph colorings, and biomedical image analysis. Some other topics I'm actively curious about are algebraic topology, geometric group theory, and machine learning. 
+My current experience includes projects in combinatorial design theory, algebraic combinatorics, graph colorings, and biomedical image analysis. Some other topics I'm actively curious about are algebraic topology, geometric group theory, and theoretical machine learning. 
 
-I'm also passionate about mathematics education and pedagogy. I am a grader and tutor for the Wellesley College Mathematics Department, and served as a counselor at [PROMYS](https://promys.org) in Summer 2025.
+I'm also passionate about mathematics education and pedagogy. I am a grader and tutor for the Wellesley College Mathematics Department, and served as a counselor at [PROMYS](https://promys.org) in Summer 2025 and 2026.
 
-Outside of math, my hobbies include rock climbing and skiing.
+Outside of math, my hobbies include rock climbing, hiking, and skiing.
 
 
 
