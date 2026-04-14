@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-intro-to-geometric-group-theory-the-word-problem",
+        },{id: "post-symmetric-functions-young-tableaux-and-group-representations",
         
-          title: "Intro to Geometric Group Theory: The Word Problem",
+          title: "Symmetric Functions, Young Tableaux, and Group Representations",
         
         description: "",
         section: "Posts",
