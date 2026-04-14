@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-symmetric-functions-young-tableaux-and-group-representations",
-        
-          title: "Symmetric Functions, Young Tableaux, and Group Representations",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/algcombo/";
-          
-        },
-      },{id: "post-intro-to-geometric-group-theory-the-word-problem",
+        },{id: "post-intro-to-geometric-group-theory-the-word-problem",
         
           title: "Intro to Geometric Group Theory: The Word Problem",
         
@@ -57,6 +46,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/ggt/";
+          
+        },
+      },{id: "post-symmetric-functions-young-tableaux-and-group-representations",
+        
+          title: "Symmetric Functions, Young Tableaux, and Group Representations",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/algcombo/";
           
         },
       },{id: "books-the-godfather",
