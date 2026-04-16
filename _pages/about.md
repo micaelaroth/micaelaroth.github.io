@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu). I will be attending graduate school in mathematics at the [University at Albany](https://www.albany.edu/math) in Fall 2026.
+Hi! I'm Micaela, a senior and mathematics major at [Wellesley College](https://www.wellesley.edu). I will be continuing my education as a graduate student at the [University at Albany](https://www.albany.edu/math) in Fall 2026.
 
 My current experience includes projects in combinatorial design theory, algebraic combinatorics, graph colorings, and biomedical image analysis. Some other topics I'm actively curious about are algebraic topology, geometric group theory, and theoretical machine learning. 
 
