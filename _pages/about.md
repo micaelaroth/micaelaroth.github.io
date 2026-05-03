@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <Undergraduate Student @ Wellesley College
+subtitle: <Incoming Math PhD Student @ UAlbany
 
 profile:
   align: right
