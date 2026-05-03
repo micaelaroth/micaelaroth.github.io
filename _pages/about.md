@@ -28,7 +28,7 @@ Hi! I'm Micaela, an incoming graduate student in mathematics at the [University 
 
 My experience as an undergraduate at [Wellesley College](https://www.wellesley.edu) (2022-26) included projects in combinatorial design theory, algebraic combinatorics, graph colorings, and biomedical image analysis. 
 
-I'm also passionate about mathematics education and pedagogy. I served as a grader and tutor for the Wellesley College Mathematics Department, and served as a counselor at [PROMYS](https://promys.org) in Summer 2025 and 2026.
+I'm also passionate about mathematics education and pedagogy. I served as a grader and tutor for the Wellesley College Mathematics Department, and as a counselor at [PROMYS](https://promys.org) in Summer 2025 and 2026.
 
 Outside of math, my hobbies include rock climbing, hiking, and skiing.
 
