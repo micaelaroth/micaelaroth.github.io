@@ -30,8 +30,7 @@ My experience as an undergraduate at [Wellesley College](https://www.wellesley.e
 
 I'm also passionate about mathematics education and pedagogy. I served as a grader and tutor for the Wellesley College Mathematics Department, and as a counselor at [PROMYS](https://promys.org) in Summer 2025 and 2026.
 
-Outside of math, my hobbies include rock climbing, hiking, and skiing.
-
+Outside of math, my hobbies include rock climbing, hiking, running, and skiing.
 
 
 
