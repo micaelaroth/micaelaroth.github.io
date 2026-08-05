@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-latex",
+        },{id: "post-intro-to-latex",
         
-          title: "Latex",
+          title: "Intro to LaTeX",
         
         description: "",
         section: "Posts",
