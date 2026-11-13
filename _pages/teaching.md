@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 ### Graduate Teaching Assistant @ UAlbany (2026-Present)
+- Tutoring for undergraduate calculus and statistics courses; exam proctoring and grading.
 
 ### Teaching Assistant @ Wellesley College (2022-26)
 - MATH 306: Galois Theory (Spring 2026)
@@ -19,6 +20,6 @@ nav_order: 3
 
 ### Counselor @ PROMYS (Summer 2025, 26)
 - Mentor for intensive, exploration-based Number Theory curriculum
-- Mentored research labs in Lattice Path Enumeration; Sums of Squares
+- Mentor for research labs in Lattice Path Enumeration; Sums of Squares
 - Grader for courses in Quiver Representations; Linear Algebra
 - Seminar talks in Algebraic Combinatorics; Geometric Group Theory; LaTeX
