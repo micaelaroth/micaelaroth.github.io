@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <Incoming Math PhD Student @ UAlbany
+subtitle: <Math PhD Student @ UAlbany
 
 profile:
   align: right
@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Micaela, a first-year mathematics Ph.D. student at the [University at Albany](https://www.albany.edu/math). My primary interests lie (broadly) in algebra and topology. I enjoy thinking about the nuts and bolts behind how algebraic objects behave, as well as studying how algebraic methods can be used to describe geometric phenomena. 
+Hi! I'm Micaela, a first-year mathematics Ph.D. student at the [University at Albany](https://www.albany.edu/math). My primary interests lie (broadly) in algebra and topology. I enjoy thinking about the nuts and bolts behind how algebraic structures behave, as well as studying how algebraic methods can be used to analyze topological or geometric phenomena.
 
-Some auxiliary topics I'm actively curious about include number theory, geometric group theory, theoretical machine learning and interpretability, and the philosophy of mathematics.
+One of my more general goals is to be a well-rounded mathematician. Some auxiliary topics I'm actively curious about include number theory, geometric group theory, category theory, theoretical machine learning and interpretability, and mathematical philosophy.
 
 My experience as an undergraduate at [Wellesley College](https://www.wellesley.edu) (2022-26) included projects in combinatorial design theory, algebraic combinatorics, graph colorings, and biomedical image analysis.
 
